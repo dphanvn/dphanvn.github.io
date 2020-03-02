@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1583117914356,
+  "timestamp": 1583118037192,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,12 +10,12 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.1394c69a6248bf39af4f.js",
-        "/main-es5.1394c69a6248bf39af4f.js",
+        "/main-es2018.f726d9b60a66d4f20bd5.js",
+        "/main-es5.f726d9b60a66d4f20bd5.js",
         "/manifest.webmanifest",
-        "/polyfills-es2015.ca64e4516afbb1b890d5.js",
+        "/polyfills-es2018.ca64e4516afbb1b890d5.js",
         "/polyfills-es5.ad81c68d1c3d7a0429f1.js",
-        "/runtime-es2015.0811dcefd377500b5b1a.js",
+        "/runtime-es2018.0811dcefd377500b5b1a.js",
         "/runtime-es5.0811dcefd377500b5b1a.js",
         "/styles.1dc5d0c34289d460bf12.css"
       ],
@@ -67,13 +67,13 @@
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/icons/wifi_off_white.png": "7eaac31912617e94d27b545d0481351abf44564e",
     "/favicon.ico": "2a2587105caae590562cd3ffa4a75857fe10fb78",
-    "/index.html": "011718836297ecef1926d53578c9bbcaed7ad198",
-    "/main-es2015.1394c69a6248bf39af4f.js": "a932b9c74419b70771174dad1662f6307f89ad19",
-    "/main-es5.1394c69a6248bf39af4f.js": "3b7965cecce1470245bbc0100b320bd275114925",
+    "/index.html": "704f74b6b11084f7f330f3890fee7e22e60ee586",
+    "/main-es2018.f726d9b60a66d4f20bd5.js": "7db4786c20cb222b631571f891802ef7bb58f105",
+    "/main-es5.f726d9b60a66d4f20bd5.js": "0bac645e441cfed7440b11525b0e000d4350340f",
     "/manifest.webmanifest": "65225af1d5aa8a8459c49b56bc7f7ea284cec5c6",
-    "/polyfills-es2015.ca64e4516afbb1b890d5.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
+    "/polyfills-es2018.ca64e4516afbb1b890d5.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
     "/polyfills-es5.ad81c68d1c3d7a0429f1.js": "8d03638471d7374e81cf33adfdea439f84ac3873",
-    "/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es2018.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/styles.1dc5d0c34289d460bf12.css": "b6005d4e18c56ceff52b5e4dd95099b9f69504f6"
   },
